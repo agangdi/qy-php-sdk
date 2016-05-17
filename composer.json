@@ -1,0 +1,11 @@
+{
+    "name": "lingang/qy-php-sdk",
+    "description": "qingyun cloud php sdk",
+    "authors": [
+        {
+            "name": "肖林刚",
+            "email": "agangdi@gmail.com"
+        }
+    ],
+    "require": {}
+}
